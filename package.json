@@ -1,0 +1,22 @@
+{
+  "name": "clicky",
+  "version": "1.0.0",
+  "description": "The world’s most clicky button.",
+  "main": "clickserver.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Addpixel/clicky.git"
+  },
+  "keywords": [
+    "clicky",
+    "button",
+    "click",
+    "ux"
+  ],
+  "author": "Florian Pircher <git@leuchtschirm.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Addpixel/clicky/issues"
+  },
+  "homepage": "http://clicky.addpixel.net"
+}
